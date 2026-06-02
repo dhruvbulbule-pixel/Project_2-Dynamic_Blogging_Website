@@ -86,8 +86,7 @@ Packages
 No packages published
 Contributors
 1
-@bhaveshwagh22-ux
-bhaveshwagh22-ux
+dhruvbulbule-pixel
 Languages
 HTML
 100.0%
