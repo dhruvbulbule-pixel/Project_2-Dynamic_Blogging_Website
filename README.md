@@ -1,4 +1,4 @@
-# Repository---II
+# Project 2- Dynamic Blogging Website
 Dynamic Blogging Website
 A simple full-stack blogging platform where users can create and publish articles dynamically with categories and instant updates. This project helped me understand MVC architecture, REST APIs, backend validation, and dynamic content rendering using Node.js and Express.js.
 
